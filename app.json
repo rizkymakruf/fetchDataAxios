@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "fetchDataAxios",
+    "slug": "fetchDataAxios",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "fetchDataAxios"
+}
